@@ -1,4 +1,5 @@
-Thanks for downloading this template!
+demo: http://khalfanenterprises.com/
+
 
 Template Name: Khalfaan Enterprises
 Template URL:""
